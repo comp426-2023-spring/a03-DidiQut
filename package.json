@@ -9,7 +9,7 @@
   "main": "./lib/rpsls.js",
   "type": "module",
   "scripts": {
-    "test": "node-rps 'Rock' && node-rpsls 'Spock'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
