@@ -19,7 +19,6 @@ Examples:
                     e.g {"player":"rock","opponent":"Spock","result":"lose"}`;
 
 const rules = `Rules for the Lizard-Spock Espansion of Rock Paper Scissors:
-
 - Scissors CUTS Paper
 - Paper COVERS Rock
 - Rock SMOOSHES Lizard
